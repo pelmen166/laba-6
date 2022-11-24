@@ -1,0 +1,5 @@
+﻿  lab_Dzundza_6.4(2).cpp
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2).cpp(68,6): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2).cpp(88,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2)\lab_Dzundza_6.4(2).cpp(64): warning C4715: minElem: значение возвращается не при всех путях выполнения
+  lab_Dzundza_6.4(2).vcxproj -> C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4(2)\x64\Debug\lab_Dzundza_6.4(2).exe

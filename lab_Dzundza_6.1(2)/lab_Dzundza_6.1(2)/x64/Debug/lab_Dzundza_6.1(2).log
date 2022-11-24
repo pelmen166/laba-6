@@ -1,0 +1,5 @@
+﻿  lab_Dzundza_6.1(2).cpp
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2).cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2).cpp(49): warning C4715: numb: значение возвращается не при всех путях выполнения
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2)\lab_Dzundza_6.1(2).cpp(33): warning C4715: Kruteruy: значение возвращается не при всех путях выполнения
+  lab_Dzundza_6.1(2).vcxproj -> C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1(2)\x64\Debug\lab_Dzundza_6.1(2).exe

@@ -1,0 +1,3 @@
+﻿  масиви.cpp
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1\lab_Dzundza_6.1\масиви.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_Dzundza_6.1.vcxproj -> C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.1\x64\Debug\lab_Dzundza_6.1.exe

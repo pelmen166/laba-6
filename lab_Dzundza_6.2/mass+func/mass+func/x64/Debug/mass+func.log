@@ -1,0 +1,4 @@
+﻿  mass+func.cpp
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.2\mass+func\mass+func\mass+func.cpp(58,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.2\mass+func\mass+func\mass+func.cpp(53): warning C4715: CheckPos: значение возвращается не при всех путях выполнения
+  mass+func.vcxproj -> C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.2\mass+func\x64\Debug\mass+func.exe
