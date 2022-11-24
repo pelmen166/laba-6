@@ -1,0 +1,4 @@
+﻿  laba_Dzundza_6.3(2).cpp
+C:\Users\pelmen166\Documents\алг\6\laba_Dzundza_6.3(2)\laba_Dzundza_6.3(2)\laba_Dzundza_6.3(2).cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pelmen166\Documents\алг\6\laba_Dzundza_6.3(2)\laba_Dzundza_6.3(2)\laba_Dzundza_6.3(2).cpp(38): warning C4715: SumMas: значение возвращается не при всех путях выполнения
+  laba_Dzundza_6.3(2).vcxproj -> C:\Users\pelmen166\Documents\алг\6\laba_Dzundza_6.3(2)\x64\Debug\laba_Dzundza_6.3(2).exe

@@ -1,0 +1,7 @@
+﻿  lab_Dzundza_6.4.cpp
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\lab_Dzundza_6.4\lab_Dzundza_6.4.cpp(24,16): warning C4101: temp_end: неиспользованная локальная переменная
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\lab_Dzundza_6.4\lab_Dzundza_6.4.cpp(24,6): warning C4101: temp_beg: неиспользованная локальная переменная
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\lab_Dzundza_6.4\lab_Dzundza_6.4.cpp(51,6): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\lab_Dzundza_6.4\lab_Dzundza_6.4.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\lab_Dzundza_6.4\lab_Dzundza_6.4.cpp(72,12): warning C4101: zero: неиспользованная локальная переменная
+  lab_Dzundza_6.4.vcxproj -> C:\Users\pelmen166\Documents\алг\6\lab_Dzundza_6.4\x64\Debug\lab_Dzundza_6.4.exe
